@@ -3,7 +3,7 @@
 The payment gateway allows you to purchase CSPR tokens for the following currencies:
 PLN, USD, EUR.
 
-Possible payment options:
+Possible payment options by:
 Visa, MasterCard, Blik, GooglePay, ApplePay.
 
 The current cost of a transaction made through the payment gateway is 2%.
